@@ -46,5 +46,233 @@ namespace ANASTASIYABRAH.Properties {
                 this["Topic"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic1 {
+            get {
+                return ((string)(this["Topic1"]));
+            }
+            set {
+                this["Topic1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic4 {
+            get {
+                return ((string)(this["Topic4"]));
+            }
+            set {
+                this["Topic4"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic5 {
+            get {
+                return ((string)(this["Topic5"]));
+            }
+            set {
+                this["Topic5"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic6 {
+            get {
+                return ((string)(this["Topic6"]));
+            }
+            set {
+                this["Topic6"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic7 {
+            get {
+                return ((string)(this["Topic7"]));
+            }
+            set {
+                this["Topic7"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic8 {
+            get {
+                return ((string)(this["Topic8"]));
+            }
+            set {
+                this["Topic8"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic9 {
+            get {
+                return ((string)(this["Topic9"]));
+            }
+            set {
+                this["Topic9"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic10 {
+            get {
+                return ((string)(this["Topic10"]));
+            }
+            set {
+                this["Topic10"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic11 {
+            get {
+                return ((string)(this["Topic11"]));
+            }
+            set {
+                this["Topic11"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic12 {
+            get {
+                return ((string)(this["Topic12"]));
+            }
+            set {
+                this["Topic12"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic13 {
+            get {
+                return ((string)(this["Topic13"]));
+            }
+            set {
+                this["Topic13"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic14 {
+            get {
+                return ((string)(this["Topic14"]));
+            }
+            set {
+                this["Topic14"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic15 {
+            get {
+                return ((string)(this["Topic15"]));
+            }
+            set {
+                this["Topic15"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic16 {
+            get {
+                return ((string)(this["Topic16"]));
+            }
+            set {
+                this["Topic16"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Topic17 {
+            get {
+                return ((string)(this["Topic17"]));
+            }
+            set {
+                this["Topic17"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Offline1 {
+            get {
+                return ((string)(this["Offline1"]));
+            }
+            set {
+                this["Offline1"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Offline2 {
+            get {
+                return ((string)(this["Offline2"]));
+            }
+            set {
+                this["Offline2"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Offline3 {
+            get {
+                return ((string)(this["Offline3"]));
+            }
+            set {
+                this["Offline3"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Offline4 {
+            get {
+                return ((string)(this["Offline4"]));
+            }
+            set {
+                this["Offline4"] = value;
+            }
+        }
     }
 }
